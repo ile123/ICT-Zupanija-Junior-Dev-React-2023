@@ -1,0 +1,49 @@
+#card {
+    background-color: aliceblue;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.select {
+    width: 15rem;
+    height: 2rem;
+    background-color: rgb(109, 109, 179);
+    color: white;
+    text-align: center;
+}
+
+.select option {
+    color: white;
+    background-color: rgb(109, 109, 179);
+    text-align: center;
+}
+
+#imageUrl {
+    padding: 7px;
+    border-radius: 6px;
+    font-size: 16px;
+    background: #fbfbfb;
+    border: 2px solid transparent;
+    height: 36px;
+    box-shadow: 0 0 0 1px #dddddd, 0 2px 4px 0 rgb(0 0 0 / 7%), 0 1px 1.5px 0 rgb(0 0 0 / 5%);
+}
+
+#imageUrl:focus{
+    border: 2px solid #000;
+    border-radius: 4px;
+}
+
+#colorPicker {
+    border: none;
+    padding: 0;
+    width: 10rem;
+    height: 2rem;
+    border-radius: 50%;
+}
+
+#date {
+    width: 12rem;
+    border-radius: 0.5rem;
+    text-align: center;
+}

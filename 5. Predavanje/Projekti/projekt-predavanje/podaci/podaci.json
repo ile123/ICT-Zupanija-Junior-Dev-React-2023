@@ -1,0 +1,90 @@
+{
+  "rezervacije": [
+    {
+      "id": 1,
+      "osoba": {
+        "ime": "Ivana",
+        "prezime": "Ivić",
+        "dob": 24
+      },
+      "karta": {
+        "pocetak": "Split",
+        "kraj": "Rim",
+        "klasa": "E"
+      }
+    },
+    {
+      "id": 2,
+      "osoba": {
+        "ime": "John",
+        "prezime": "Smith",
+        "dob": 32
+      },
+      "karta": {
+        "pocetak": "London",
+        "kraj": "Madrid",
+        "klasa": "B"
+      }
+    },
+    {
+      "osoba": {
+        "ime": "Ana",
+        "prezime": "Horvat",
+        "dob": 25
+      },
+      "karta": {
+        "pocetak": "Berlin",
+        "kraj": "Split",
+        "klasa": "E"
+      },
+      "id": 3
+    },
+    {
+      "osoba": {
+        "ime": "Josip",
+        "prezime": "Barić",
+        "dob": 22
+      },
+      "karta": {
+        "pocetak": "Split",
+        "kraj": "Berlin",
+        "klasa": "B"
+      },
+      "id": 4
+    },
+    {
+      "osoba": {
+        "ime": "aaaaaaaaaaaa",
+        "prezime": "aaaaaaaaa",
+        "dob": 2
+      },
+      "karta": {
+        "pocetak": "Split",
+        "kraj": "Berlin",
+        "klasa": "P"
+      },
+      "id": 5
+    }
+  ],
+  "gradovi": [
+    "Split",
+    "Zagreb",
+    "Paris",
+    "London",
+    "Madrid",
+    "Berlin",
+    "Rim"
+  ],
+  "klase": [
+    {
+      "id": 1,
+      "ime": "Ekonomska",
+      "oznaka": "E"
+    },
+    {
+      "id": 2,
+      "ime": "Poslovna",
+      "oznaka": "P"
+    }
+  ]
+}

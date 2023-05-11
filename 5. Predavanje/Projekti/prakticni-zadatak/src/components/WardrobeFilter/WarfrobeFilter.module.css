@@ -1,0 +1,23 @@
+#card {
+    background-color: aliceblue;
+    width: 45rem;
+    height: 9rem;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+
+.select {
+    width: 15rem;
+    height: 2rem;
+    margin-bottom: 1rem;
+    background-color: rgb(109, 109, 179);
+    color: white;
+    text-align: center;
+}
+
+.select option {
+    color: white;
+    background-color: rgb(109, 109, 179);
+    text-align: center;
+}

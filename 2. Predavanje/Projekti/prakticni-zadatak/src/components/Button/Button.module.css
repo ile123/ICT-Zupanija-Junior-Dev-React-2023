@@ -1,0 +1,27 @@
+.row {
+    display: flex;
+    margin-top: 3rem;
+    margin-bottom: 7rem;
+    justify-content: center;
+}
+
+.button {
+    border-radius: 20px;
+    cursor: pointer;
+    border: 1px solid #3498db;
+    background-color: transparent;
+    height: 50px;
+    width: 80px;
+    color: #3498db;
+    font-size: 1.5em;
+    transition-duration: 0.4s;
+}
+
+.button + .button {
+    margin-left: 20px;
+}
+
+button:hover {
+    background-color: blue;
+    color: white;
+}

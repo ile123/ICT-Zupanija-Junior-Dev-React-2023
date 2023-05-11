@@ -1,0 +1,19 @@
+#card {
+    margin-top: 7rem;
+    border-radius: 55px;
+}
+
+.row {
+    display: flex;
+    margin-top: 3rem;
+    margin-bottom: 7rem;
+    justify-content: center;
+}
+
+h1 {
+    margin-left: 30rem;
+    margin-top: 6rem;
+    margin-bottom: 2rem;
+    font-size: 8rem;
+    justify-content: center;
+}

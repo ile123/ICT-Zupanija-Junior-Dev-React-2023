@@ -1,0 +1,11 @@
+#card {
+    margin-top: 7rem;
+    border-radius: 55px;
+}
+
+.row {
+    display: flex;
+    margin-top: 3rem;
+    margin-bottom: 7rem;
+    justify-content: center;
+}

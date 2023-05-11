@@ -1,0 +1,10 @@
+.prikazBroja{
+    border: 2px dotted goldenrod;
+    border-radius: 10px;
+    padding: 10px;
+}
+ 
+.prikazBroja p {
+    font-size: 2em;
+    margin: 5px;
+}

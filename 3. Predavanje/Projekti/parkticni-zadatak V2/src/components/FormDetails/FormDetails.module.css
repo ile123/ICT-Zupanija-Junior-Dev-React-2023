@@ -1,0 +1,21 @@
+#card {
+    margin-top: 5rem;
+    border-radius: 8px;
+    background-color: #eeeeee;
+}
+
+#header {
+    text-align: center;
+    font-size: x-large;
+    margin-bottom: 6rem;
+}
+
+#cardBody {
+    text-align: center;
+}
+
+h2 {
+    margin-left: 28rem;
+    border: 2px solid #80cdfe;
+    width: 30%;
+}

@@ -1,0 +1,10 @@
+.naslov{
+    color: red;
+    font-size: 22px;
+    border: 1px solid black;
+  }
+  .odlomak{
+    text-decoration: underline;
+    padding: 20px 10px;
+    background-color: #ccc;
+  }

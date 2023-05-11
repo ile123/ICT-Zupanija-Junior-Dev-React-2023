@@ -1,0 +1,34 @@
+#card {
+    margin-top: 12rem;
+    margin-left: 30rem;
+    background-color: aliceblue;
+    width: 35rem;
+    height: 25rem;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+#button {
+    margin-top: 15px;
+    display: inline-block;
+    outline: none;
+    cursor: pointer;
+    padding: 0 16px;
+    background-color: #0070d2;
+    border-radius: 0.25rem;
+    border: 1px solid #0070d2;
+    color: #fff;
+    font-size: 13px;
+    line-height: 30px;
+    font-weight: 400;
+    text-align: center;
+    width: 20rem;
+    height: 3rem;
+    text-align: center;
+}
+
+#button:hover {
+    background-color: #c83227;  
+    border-color: #cc1818;
+} 

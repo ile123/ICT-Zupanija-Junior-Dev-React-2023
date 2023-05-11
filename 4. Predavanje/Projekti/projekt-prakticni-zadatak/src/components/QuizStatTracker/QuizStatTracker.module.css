@@ -1,0 +1,12 @@
+#tracker {
+    padding-top: 1rem;
+    justify-content: center;
+    text-align: center;
+    font-size: 3rem;
+    width: 35rem;
+    height: 35rem;
+}
+
+.number {
+    font-size: 3rem;
+}

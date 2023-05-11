@@ -1,0 +1,96 @@
+#card {
+    margin-top: 2rem;
+    border-radius: 8px;
+    background-color: #eeeeee;
+}
+
+#checkbox {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.label {
+    margin-top: 10rem;
+    text-align: center;
+    font-size: x-large;
+}
+
+#emailInput {
+    border: 3px solid #80cdfe;
+    box-sizing: border-box;
+    margin-left: 20rem;
+    width: 50%;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#name {
+    margin-top: 10rem;
+    text-align: center;
+    font-size: x-large;
+}
+  
+#addressInputs {
+    border: 3px solid #80cdfe;
+    margin-left: 14rem;
+    width: 65%;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+  
+.label {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+  
+.inputAddress {
+    box-sizing: border-box;
+    justify-content: center;
+    width: 50%;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 3rem;
+}
+  
+.inputAddress + .inputAddress {
+    padding: 5rem;
+}
+
+#paymentName {
+    margin-top: 10rem;
+    text-align: center;
+    font-size: x-large;
+}
+  
+#paymentInputs {
+    border: 3px solid #80cdfe;
+    margin-left: 14rem;
+    width: 65%;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#orderConfirmation {
+    margin-top: 5rem;
+    justify-content: center;
+    text-align: center;
+}
+
+.error { 
+    border: 1px solid red;
+    color: red;
+}
+
+#emailError {
+    border: 1px solid red;
+    color: red;
+    width: 20%;
+    text-align: center;
+    margin-left: 32rem;
+}

@@ -1,0 +1,10 @@
+#photo {
+    border-radius: 50%;
+}
+
+#name {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(177, 152, 60, 1);
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+}

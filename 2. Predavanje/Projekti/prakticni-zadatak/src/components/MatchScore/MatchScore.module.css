@@ -1,0 +1,19 @@
+
+#score {
+    align-items: center;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    text-align: center;
+}
+
+.column p {
+    margin-top: 4rem;
+    font-size: 6rem;
+}

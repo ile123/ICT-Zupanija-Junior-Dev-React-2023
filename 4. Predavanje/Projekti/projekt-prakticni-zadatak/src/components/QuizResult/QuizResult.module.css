@@ -1,0 +1,38 @@
+#scoreCard {
+    margin-top: 6.5rem;
+    margin-left: 26rem;
+    background-color: aliceblue;
+    width: 45rem;
+    height: 35rem;
+    text-align: center;
+    align-items: center;
+}
+
+.text {
+    padding-top: 1rem;
+    font-size: 3rem;
+}
+
+#button {
+    margin-top: 15px;
+    display: inline-block;
+    outline: none;
+    cursor: pointer;
+    padding: 0 16px;
+    background-color: #0070d2;
+    border-radius: 0.25rem;
+    border: 1px solid #0070d2;
+    color: #fff;
+    font-size: 13px;
+    line-height: 30px;
+    font-weight: 400;
+    text-align: center;
+    width: 20rem;
+    height: 3rem;
+    text-align: center;
+}
+
+#button:hover {
+    background-color: #c83227;  
+    border-color: #cc1818;
+} 

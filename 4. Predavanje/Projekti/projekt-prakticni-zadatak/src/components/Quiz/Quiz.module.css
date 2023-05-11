@@ -1,0 +1,29 @@
+#center {
+    display: flex; 
+    align-items: center;
+}
+
+#left {
+    margin-left: 5rem;
+    background-color: aliceblue;
+    width: 35rem;
+    height: 35rem;
+    margin-top: 6rem;
+    margin-right: auto;
+}
+
+#right {
+    background-color: aliceblue;
+    margin-right: 5rem;
+    margin-top: 6rem;
+}
+
+#question {
+    text-align: center;
+    font-size: large;
+}
+
+#answers {
+    justify-content: center;
+    text-align: center;
+}
